@@ -1,7 +1,6 @@
 # Sydney Airbnb Price Predictor 🏙️💰
 
-**Live App**: https://sydney-airbnb-predictor.streamlit.app (deploy for free in 2 clicks — see below)
-
+**Live App**: https://sydney-airbnb-predictor.streamlit.app 
 Predicts nightly Airbnb prices in Sydney with **~89% accuracy on price tiers** and **$30–40 average error** using Random Forest.
 
 ### Features
