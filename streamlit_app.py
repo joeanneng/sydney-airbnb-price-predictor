@@ -4,7 +4,7 @@ import numpy as np
 import joblib
 
 # Load your model (make sure the file is in the same folder)
-model = joblib.load("random_forest_pipeline_v2.pkl")
+model = joblib.load("model/random_forest_pipeline_v2.pkl")
 
 st.set_page_config(page_title="Sydney Airbnb Predictor", layout="centered")
 st.title("Sydney Airbnb Price Prediction")
